@@ -7,10 +7,10 @@ const BookRender = () => {
   return (
     <div>
       {filteredBook.map((each) => (
-        <div key={each.id} className='w-full flex flex-col items-center'>
+        <div key={each.id} className="w-full flex flex-col items-center">
           <div className="w-9/12">
-          <div className="font-bold p-1">{each.name}</div>
-          <div className="text-xs">{each.details}</div>
+            <div className="font-bold p-1">{each.name}</div>
+            <div className="text-xs">{each.details}</div>
           </div>
         </div>
       ))}

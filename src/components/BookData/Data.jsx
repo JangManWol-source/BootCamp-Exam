@@ -37,7 +37,7 @@ const bookData = [
     Cras hendrerit, ante at hendrerit semper, sapien dui euismod sapien, scelerisque auctor mauris massa laoreet diam. Pellentesque eget massa et ligula dapibus bibendum a ac felis. Vestibulum tincidunt arcu sapien, quis molestie nibh imperdiet id. Nullam arcu sapien, elementum quis turpis id, rhoncus molestie felis. Morbi in nibh ac diam accumsan maximus. Sed id dictum orci. Sed sodales purus dictum sagittis pharetra. Etiam rhoncus, lectus tempus porttitor rhoncus, odio dui rhoncus purus, eget lobortis felis lacus eget risus. Mauris facilisis condimentum diam nec elementum. Mauris et eros urna. Vivamus ornare massa vel risus laoreet mattis. Mauris tristique est sed est bibendum, quis congue mi lobortis. Fusce semper rutrum tellus, at molestie felis.`,
   },
   {
-    name: 'Lorem Ipsum Book 2',
+    name: "Lorem Ipsum Book 2",
     id: Math.random().toString(),
     details: `"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
     "There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."
@@ -101,8 +101,8 @@ const bookData = [
     
     Suspendisse et molestie enim, ac euismod arcu. Morbi placerat, odio et varius lacinia, diam purus tempor ipsum, ut blandit ligula metus at nunc. Nunc ac lorem libero. Curabitur mollis accumsan mi quis laoreet. Sed laoreet volutpat hendrerit. Cras non bibendum ligula. Quisque mollis interdum nisl, vel convallis ligula tincidunt scelerisque. Quisque placerat erat ut libero tincidunt pharetra. Etiam pharetra leo sed nisi convallis porttitor. Nulla facilisi. Suspendisse bibendum ultrices vulputate. In varius lobortis est, ut elementum urna molestie eu. Duis eget enim quam.
     
-    Duis vel iaculis velit. Phasellus vulputate eleifend ante, ac egestas nisl convallis ac. Curabitur nisi orci, pellentesque et dolor sit amet, porttitor mattis enim. Pellentesque dolor lorem, luctus vitae eleifend id, mattis interdum velit. Integer bibendum erat a velit sagittis, eu vestibulum libero congue. Nulla dictum urna magna, hendrerit volutpat ex congue vel. Vivamus tempus a mi ac malesuada. Suspendisse tincidunt at velit eu laoreet. Integer neque lectus, egestas quis tellus id, consequat posuere nisl. Nam interdum mattis nisl et accumsan. Praesent condimentum non ipsum vitae tincidunt. Curabitur fringilla, est vitae dictum ornare, odio lorem dapibus nibh, hendrerit interdum dui orci ac ante. Ut consequat eleifend quam, sit amet pharetra lectus tincidunt non.`
-  }
+    Duis vel iaculis velit. Phasellus vulputate eleifend ante, ac egestas nisl convallis ac. Curabitur nisi orci, pellentesque et dolor sit amet, porttitor mattis enim. Pellentesque dolor lorem, luctus vitae eleifend id, mattis interdum velit. Integer bibendum erat a velit sagittis, eu vestibulum libero congue. Nulla dictum urna magna, hendrerit volutpat ex congue vel. Vivamus tempus a mi ac malesuada. Suspendisse tincidunt at velit eu laoreet. Integer neque lectus, egestas quis tellus id, consequat posuere nisl. Nam interdum mattis nisl et accumsan. Praesent condimentum non ipsum vitae tincidunt. Curabitur fringilla, est vitae dictum ornare, odio lorem dapibus nibh, hendrerit interdum dui orci ac ante. Ut consequat eleifend quam, sit amet pharetra lectus tincidunt non.`,
+  },
 ];
 
 export default bookData;
